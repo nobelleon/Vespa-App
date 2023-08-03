@@ -8,6 +8,7 @@ Vespa App Made in Flutter.
 ## Features
 
 - Get google map from cloud.google.com  API
+- Animation
 - Used BloC design patterns
 - GetX
 - Call Demo
