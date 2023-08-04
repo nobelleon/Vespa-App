@@ -1,5 +1,7 @@
 # Flutter - Vespa App
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nobelleon&label=Profile%20views&color=0e75b6&style=flat" alt="nobelleon" /> </p>
+
 Vespa App Made in Flutter.
 
 ![vespa_intro-horz](https://github.com/nobelleon/Vespa-App/assets/76748114/13fbdcb2-46a5-49d1-aaa6-91f5a96aaa68)
